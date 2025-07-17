@@ -18,4 +18,4 @@
 Гугл диск: https://drive.google.com/drive/folders/1Sjtc4majO_SgJABBmZDBagbVz_OA8_aZ?usp=drive_link
 
 Пример ответа:
-![](/screenshots/v4-best-1.png) 
+![](/screenshots/v4-best.png) 
