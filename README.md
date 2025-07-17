@@ -16,3 +16,6 @@
 
 Для запуска своего промпта есть test/default_test.py, но для этого необходимо с гугл диска скачать обученную модель и распаковать в корень проекта. 
 Гугл диск: https://drive.google.com/drive/folders/1Sjtc4majO_SgJABBmZDBagbVz_OA8_aZ?usp=drive_link
+
+Пример ответа:
+![](/screenshots/v4-best-1.png) 
